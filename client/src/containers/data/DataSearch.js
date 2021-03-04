@@ -8,7 +8,7 @@ export default class DataSearch extends Component {
 
     handleInputChange(event) {
         const target = event.target;
-        const value = target.value;  
+        const value = target.value;
         const name = target.name;
         // target.type === 'checkbox' ? target.checked :
 
@@ -28,8 +28,8 @@ export default class DataSearch extends Component {
                         placeholder="A"
                         aria-label="Letter"
                         name="letter"
-                      value={this.props.SearchLetter}
-                       onChange= {this.props.onSearchLetter} />
+                        value={this.props.SearchLetter}
+                        onChange={this.props.onSearchLetter} />
                 </div>
                 <div className="col-sm-4 d-flex">
                     <label className="col-form-label mr-2">Frequency</label>
