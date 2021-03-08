@@ -37,7 +37,6 @@ class DataList extends Component {
                 sent={item.sent}
             />
         )
-        
         return (
             <table className="table table-striped">
                 <thead>
