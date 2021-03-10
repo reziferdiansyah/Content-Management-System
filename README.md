@@ -23,7 +23,7 @@ Stack technologies :
 
  DISPLAY BAR
 
-![display](client/public/screenshot3.png)
+![display](client/public/screenshot27.png)
 
  DISPLAY MAPS
 
