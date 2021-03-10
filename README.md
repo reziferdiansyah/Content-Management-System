@@ -17,6 +17,10 @@ Stack technologies :
 
 ![display](client/public/screenshot2.png)
 
+ DISPLAY PIE CHART
+
+![display](client/public/screenshot25.png)
+
  DISPLAY BAR
 
 ![display](client/public/screenshot3.png)
@@ -114,3 +118,7 @@ DISPLAY DELETE MAPS
 DISPLAY DELETE MAPS SUCCESS
 
 ![display](client/public/screenshot24.png)
+
+DISPLAY LOGOUT
+
+![display](client/public/screenshot26.png)
