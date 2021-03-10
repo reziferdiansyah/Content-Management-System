@@ -4,8 +4,8 @@ Stack technologies :
 
 - Node.js (express)
 - React redux
-- PassportJS
-- JQuery
+- JWT
+- Chart JS
 - NPM (others package)
 - Bootstrap 4.0 (View)
 
